@@ -1,0 +1,1 @@
+https://github.com/AlsaYanimaChoirulFikri/ci_cd_mini_project.git
